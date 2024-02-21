@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gurunoor
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MEAN Stack
-- 💞️ I’m looking to collaborate on MEAN Stack
+- 👀 I’m Full Stack Developer at Infosys
+- 🌱 I’m currently Working on Java-Angular Stack
 - 📫 How to reach me gurunoor218@gmail.com
 
 <!---
